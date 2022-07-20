@@ -1,3 +1,11 @@
+# App Inventor (TinyWebDB) Web Database Service
+## 出席管理システム・プロトタイプ
+## Attend Managment System Prototype
+
+
+App Inventorで学生証のRFIDに反応し、学籍番号をTinyWebDBに記録する方法。
+
+
 # tinywebdb-php
 a TinyWebDB implementation based on PHP and textfile. No database is required.
 
